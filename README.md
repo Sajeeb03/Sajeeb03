@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sajeeb03
 - 👀 I’m interested in web designing
-- 🌱 I’m currently learning NS-3
-- 💞️ I’m looking to collaborate on working with ns3
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on working with full stack developers.
 - 📫 How to reach me https://www.linkedin.com/in/md-muntasir-rahman-ba7603233/
 
 <!---
